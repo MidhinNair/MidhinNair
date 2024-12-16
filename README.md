@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MidhinNair
 - 👀 I’m Passionate about Development
-- 🌱 I’m currently doing internship at Scaler in fullstack development
+- 🌱 Software Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in mail 
 -   Just ping me on midhinmurali3@gmail.com
